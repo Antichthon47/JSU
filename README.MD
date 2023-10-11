@@ -42,7 +42,7 @@ Copy code
 python wikipedia_scraper.py
 The script will retrieve the entire text content of the Wikipedia page and save it to a file named scraped_wikipedia_text.txt in the same directory.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Note: Always respect the terms of service and guidelines of the websites you scrape, and ensure your scraping activities are legal and ethical.
