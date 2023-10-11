@@ -25,7 +25,7 @@ pip install beautifulsoup4 requests
 
 ## Installation (Clone this repository to your local machine) :
 ```bash
-git clone https://github.com/yourusername/web-scraping-with-beautifulsoup.git
+git clone https://github.com/Antichthon47/JSU/tree/main
 ```
 Change your working directory to the project folder:
 ```bash
